@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Jollybang
-- 👀 I’m interested in ... Problem Solving
-- 🌱 I’m currently learning ... python, DSA, ML
-- 💞️ I’m looking to collaborate on ... Machine Learning Projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested to solve or listen... real life Scenarios, Situations 
+- 🌱 I’m currently learning ... python, DSA, django, RESTAPI's
+- 💞️ I’m looking to collaborate on ... projects
+- 📫 How to reach me ... jollybang82@gmail.com
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... Final goal to the Himalayas
 
 <!---
 Jollybang/Jollybang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
